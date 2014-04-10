@@ -7,10 +7,7 @@ img {
 	width: 170px;
 	box-shadow: rgba(0,0,0,0.2) 10px 10px;
 	
-#bottom_left{
-	border-bottom-left-radius: 20px;
 
-}
 
 #header {
 	z-index: 1;
