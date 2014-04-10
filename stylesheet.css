@@ -9,7 +9,6 @@ table, td {
 }
 
 table {
-	border-radius:10%;
-	width:200px;
-	height:300px;
+	border-radius:5%;
+
 }
