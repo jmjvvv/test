@@ -9,3 +9,11 @@ div {
 	margin-top: 5px;
 	text-align: center;
 }
+
+.friend {
+	border: 2px dashed green;
+}
+
+#best_friend {
+	border: 4px solid #00C957;
+}
