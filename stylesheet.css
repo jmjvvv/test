@@ -12,6 +12,11 @@ div div{
 	margin-top: 5px;
 	text-align: center;
 }
+div p {
+	position: relative;
+	margin-top: 40px;
+	font-size: 12px;
+}
 
 img {
 	height: 230px;
