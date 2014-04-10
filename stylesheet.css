@@ -1,5 +1,8 @@
 div {
 	border-radius: 5px;
+	
+}
+div div{
 	display: inline-block;
 	height: 100px;
 	width: 100px;
