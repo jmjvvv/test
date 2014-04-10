@@ -1,17 +1,8 @@
-h1 {
-    font-family: helvetica, sans-serif;
-    color: #576d94;
-    
-td {
-    height: 50px;
-    border: 1px solid blue;
+img {
+	width:100px;
+	height:100px;
 }
-table {
-    border: 1px solid black;
-    
-}
-tbody img {
-    height: 100px;
-    width: 300px;
-    border: 1px solid #4682b4;
+
+table, td {
+	border: 1px #70b8ff dashed;
 }
