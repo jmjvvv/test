@@ -5,7 +5,7 @@ div {
 img {
 	height: 230px;
 	width: 170px;
-	box-shadow: rgba(0,0,0,0.2) 5px 5px;
+	box-shadow: rgba(0,0,0,0.2) 10px 10px;
 
 }
 
@@ -36,7 +36,9 @@ img {
 	font-family: Verdana, sans-serif;
 	color: #ffffff;
 }
-
+H3{
+	font-family: helvetica;
+}
 h4 {
 	margin-left: 5px;
 	margin-bottom: 15px;
