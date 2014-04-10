@@ -2,6 +2,13 @@ div {
 	border-radius: 5px;
 }
 
+img {
+	height: 170px;
+	width: 170px;
+	box-shadow: rgba(0,0,0,0.2) 10px 10px;
+
+}
+
 #header {
 	z-index: 1;
 	position: fixed;
