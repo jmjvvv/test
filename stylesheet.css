@@ -12,7 +12,7 @@ img {
 #header {
 	z-index: 1;
 	position: fixed;
-	width: 98.5%;
+	width: 99%;
 	margin-top: -20px;
 	height: 60px;
 	background-color: #ffa800;
@@ -75,7 +75,7 @@ a:hover {
 
 
 .right {
-	position: relative;
+	position: fixed;
 	float: right;
 	margin-top: 50px;
 	width: 89%;
