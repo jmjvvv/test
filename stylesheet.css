@@ -10,6 +10,12 @@ div {
 	text-align: center;
 }
 
+div p {
+	position: relative;
+	margin-top: 40px;
+	font-size: 12px;
+}
+
 .friend {
 	border: 2px dashed green;
 }
