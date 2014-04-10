@@ -10,3 +10,7 @@ table {
     border: 1px solid black;
     
 }
+img {
+    height: 100px;
+    width: 300px;
+}
