@@ -2,21 +2,7 @@ div {
 	border-radius: 5px;
 	
 }
-div div{
-	display: inline-block;
-	height: 100px;
-	width: 100px;
-	border-radius: 100%;
-	border: 2px solid black;
-	margin-left: 5px;
-	margin-top: 5px;
-	text-align: center;
-}
-div p {
-	position: relative;
-	margin-top: 40px;
-	font-size: 12px;
-}
+
 
 img {
 	height: 230px;
