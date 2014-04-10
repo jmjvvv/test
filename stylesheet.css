@@ -1,7 +1,8 @@
+
 td {
     height: 50px;
-    border: 1px dashed blue;
+    border: 1px solid blue;
 }
 table {
-    border: 1px soild black;
+    border: 1px solid black;
 }
