@@ -1,16 +1,5 @@
 div {
 	border-radius: 5px;
-
-	position: relative;
-	display: inline-block;
-	height: 100px;
-	width: 100px;
-	border-radius: 100%;
-	border: 2px solid black;
-	margin-left: 5px;
-	margin-top: 5px;
-	text-align: center;
-
 }
 
 #header {
