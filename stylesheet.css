@@ -1,6 +1,6 @@
 img {
 	width:100px;
-	height:100px;
+	height:150px;
 }
 
 table, td {
@@ -10,4 +10,6 @@ table, td {
 
 table {
 	border-radius:10%;
+	width:100px;
+	height:150px;
 }
